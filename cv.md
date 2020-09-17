@@ -12,12 +12,20 @@
 ---
 ### Priorities
 
-
+1. Gaining experience
+2. Employment in a company
+3. Self-development
 
 
 ---
 ### Summary
 
+<ul>
+    <li><b>Programming languages and technologies:</b> HTML, CSS, JavaScript, C#(University), node.js(a little bit) </li>
+    <li><b>FrameWork and Libraries:</b>React(a little bit), Bootstrap,  </li>
+    <li><b>Tools:</b> VS code, Sublime text, notepade, Git, Photoshop, Lightroom, </li>
+    <li><b>Other skills:</b>advanced user in: Windows, Excel, 1C, Access, PowerPoint, Microsoft Word</li>
+</ul>
 
 ---
 ### [Check my code](https://github.com/jackerbro) 
