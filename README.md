@@ -1,1 +1,1 @@
-https://github.com/jackerbro/rsschool-cv/blob/gh-pages/cv.md
+https://jackerbro.github.io/rss
