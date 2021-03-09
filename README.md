@@ -1,1 +1,1 @@
-https://jackerbro.github.io/rss
+https://jackerbro.github.io/rsschool-cv/
